@@ -13,7 +13,7 @@ Aplicação web feita em **React + Vite** para cadastro e gerenciamento de clien
 - [React](https://reactjs.org/)
 - [Vite](https://vitejs.dev/)
 - [Firebase Realtime Database](https://firebase.google.com/)
-- [Bootstrap Icons / Font Awesome]
+- [Bootstrap Icons](https://getbootstrap.com/)
 - [GitHub Pages](https://pages.github.com/)
 
 ---
